@@ -1,0 +1,1 @@
+wesb_static
